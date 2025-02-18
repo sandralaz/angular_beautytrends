@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "image": "https://www.rhodeskin.com/cdn/shop/files/feature-espresso_2000x.jpg?v=1712794883",
+      "name": "The tinted lip layer- ESPRESSO by Rhode",
+      "description": "Conoce el tinte labial. Color transparente pero modulable que se funde en los labios para dar un toque de tinte y un acabado rico y brillante. La fórmula nutritiva y sin fragancia deja los labios hidratados y visiblemente regordetes. Tamaño: 10ml / .3 fl oz.",
+      "unitAvailable": "34",
+      "date": "Sat Feb 04 2023 00:05:57 GMT-0400 (Bolivia Time)",
+      "price": "55.00",
+      "category": "cosmetics"
+    },
+    {
+      "image": "https://cdn2.primor.eu/media/catalog/product/cache/8d3aba296f7a18b5251ee30fa5db42b2/0/M/0MO24373_1_057f.jpg",
+      "name": "Maybelline New York Lash Sensational Sky High",
+      "description": "La Máscara de pestañas Lash Sensational Sky High te ofrece una longitud sin límites + volumen redefinido en tus pestañas.¿Qué la hace tan única? Su innovador cepillo cónico y flexible alcanza todas tus pestañas, hasta las más cortas, su fórmula está infusionada con extracto de bambú y su dosificador te permite coger la cantidad exacta de producto para obtener unas #PESTAÑASCONALTURA.",
+      "unitAvailable": "47",
+      "date": "Sun Nov 06 2022 20:46:38 GMT-0400 (Bolivia Time)",
+      "price": "11.00",
+      "category": "cosmetics"
+    },
+    {
+      "image": "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dwbb3ed4c6/Y0373000/Y0373000_C037300015_E01_ZHC.jpg?sw=1800&sh=1200",
+      "name": "Rosy Glow by DIOR",
+      "description": "Un colorete en polvo de culto, Dior Backstage Rosy Glow se reinventa en una fórmula clean que se funde con la piel para aportar a las mejillas un efecto buena cara inmediato.",
+      "unitAvailable": "100",
+      "date": "Sat Sep 17 2022 15:11:19 GMT-0400 (Bolivia Time)",
+      "price": "43.00",
+      "category": "cosmetics"
+    },
+    {
+      "image": "https://kyliecosmetics.com/cdn/shop/files/Cosmic_Bundles_100mL_1_800x.jpg?v=1709744709",
+      "name": "Cosmic by Kylie Jenner 100ml & Pen Spray Duo",
+      "description": "Un aroma magnético inspirado en la piel que florece con notas de jazmín estrellado y acordes de ámbar dorado y almizcle de vainilla.",
+      "unitAvailable": "56",
+      "date": "Tue Aug 30 2022 04:02:20 GMT-0400 (Bolivia Time)",
+      "price": "92.00",
+      "category": "perfumes"
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FS_FA20_T2PRODUCT_DOTCOM_BUNDLES_CLEANSER_TONER_SPF_1200x1500_3df98fd4-1ab4-46c5-bb3a-d696bf9d31b8.jpg?v=1623189828&width=1920",
+      "name": "Fenty Skin Start’rs Full-Size Bundle",
+      "description": "DESMAQUILLA : Desintoxica los poros y lávalos por completo sin resecar la piel con Total Cleans'r, nuestro limpiador profundo desmaquillante 2 en 1 TRATAMIENTO PROFUNDO : Reduce los poros, las manchas oscuras visibles y el brillo con Fat Water, nuestro híbrido tónico-suero superpoderoso que ilumina, da volumen, suaviza y alisa. LOCK N SHIELD : fija la hidratación, combate la decoloración y prepara la piel para el maquillaje con Hydra Vizor, nuestro humectante FPS liviano e invisible.",
+      "unitAvailable": "90",
+      "date": "Mon Oct 24 2022 10:41:08 GMT-0400 (Bolivia Time)",
+      "price": "131.00",
+      "category": "skincare"
+    },
+    {
+      "image": "https://cdn2.primor.eu/media/catalog/product/cache/8d3aba296f7a18b5251ee30fa5db42b2/0/M/0MR00331_1_4a94.jpg",
+      "name": "Estée Lauder Double Wear Base de Maquillaje de Larga Duración",
+      "description": "Esta base de maquillaje de lujo proporciona una cobertura media, se adapta perfectamente a la piel y se siente ligera como el aire. Además, regula el exceso de sebo en el rostro, brindando un acabado impecable. Con un factor de protección solar SPF +10, protege la piel de los daños causados por el sol. Estée Lauder Base de Maquillaje Double Wear ha sido oftalmológica y dermatológicamente probada, asegurando su seguridad y eficacia en cada aplicación. Confía en este icónico producto para lograr un maquillaje duradero y de calidad.",
+      "unitAvailable": "90",
+      "date": "Sun Dec 18 2022 12:03:49 GMT-0400 (Bolivia Time)",
+      "price": "58.00",
+      "category": "cosmetics"
+    }
+  ],
+  "status": 200
+}

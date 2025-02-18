@@ -1,0 +1,122 @@
+// Variables
+$primary-color: #E6E6FA; // Lavender color
+$accent-color: #6A5ACD; // SlateBlue for accents
+$text-color: #333; // Dark text color
+$background-color: #F9F9F9; // Light background color for sections
+
+// General Styles
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: $primary-color;
+  color: $text-color;
+}
+
+header {
+  background-color: $accent-color;
+  color: white;
+  padding: 1rem 0;
+}
+
+nav ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem 10%;
+}
+
+#about-us {
+  background-color: $background-color;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: $accent-color;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  color: $accent-color;
+  margin-top: 2rem;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 1.2rem;
+  line-height: 1.8;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 1rem;
+}
+
+ul li {
+  margin-bottom: 0.8rem;
+  font-size: 1.1rem;
+}
+
+ul li strong {
+  color: $accent-color;
+}
+
+footer {
+    background-color: $accent-color;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 3rem;
+  }
+  
+  footer p {
+    margin-bottom: 1rem;
+  }
+  
+  footer ul {
+    list-style-type: none;
+  }
+  
+  footer ul li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+  
+  footer ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  footer ul li a:hover {
+    text-decoration: underline;
+  }
+  
